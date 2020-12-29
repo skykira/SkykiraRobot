@@ -16,7 +16,6 @@
 ![skykira's github stats](https://github-readme-stats.vercel.app/api?username=skykira&show_icons=true&theme=tokyonight&count_private=true)
 
 ## *MyBlog*
-# 
 
 <a href="https://github.com/skykira/TheirNotes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=skykira&repo=TheirNotes&theme=tokyonight" />
